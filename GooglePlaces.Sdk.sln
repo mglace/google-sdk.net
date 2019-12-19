@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GooglePlaces.Sdk", "src\GooglePlaces.Sdk.csproj", "{B0C6D095-A9CC-4DCE-ADDC-793DD321CA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C6D095-A9CC-4DCE-ADDC-793DD321CA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C6D095-A9CC-4DCE-ADDC-793DD321CA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C6D095-A9CC-4DCE-ADDC-793DD321CA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C6D095-A9CC-4DCE-ADDC-793DD321CA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71ED039A-06DA-4631-B0B8-C0B28E72808B}
+	EndGlobalSection
+EndGlobal
